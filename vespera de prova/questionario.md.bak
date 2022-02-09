@@ -10,7 +10,8 @@ Qualquer uma.
 Questao 3: O que é um repositório?
 É uma pasta (local ou remota) onde serão guardados os arquivos e versões de um projeto.
 
-Questao 4:
+Questao 4: Os códigos que colocam no github estarão sempre disponíveis a todos os usuários da web?
+Não, os códigos no github podem ser postados como Privado, disponíveis apenas a certos usuários escolhidos.
 
 Questao 5:
 
