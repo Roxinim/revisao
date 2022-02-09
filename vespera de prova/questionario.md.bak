@@ -1,5 +1,4 @@
-Questao 1: 
-Para que serve o software de controle de versao?
+Questao 1: Para que serve o software de controle de versao?
 O controle de versão é feito para manter um histórico das mudanças feitas nos arquivos de um projeto,
 assim criando versões que podem ser revertidas caso algo dê errado. 
 Também ajuda a trabalhar em equipe, pois vários membros podem colaborar com um projeto ao mesmo tempo.
@@ -20,4 +19,5 @@ Questao 6: O que é branch?
 Branch é uma Ramificação do repositório, servindo como uma "linha do tempo alternativa", 
 onde o que é feito em uma não altera a outra 
 
-
+Questao 7: O que é pull request?
+É como um pedido feito por um colaborador para integrar o trabalho na branch main.
