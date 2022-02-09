@@ -13,7 +13,8 @@ Questao 3: O que é um repositório?
 Questao 4: Os códigos que colocam no github estarão sempre disponíveis a todos os usuários da web?
 Não, os códigos no github podem ser postados como Privado, disponíveis apenas a certos usuários escolhidos.
 
-Questao 5:
+Questao 5: O que é VCS?
+Software de Controle de Versão
 
 
 
