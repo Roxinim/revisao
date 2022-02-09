@@ -16,6 +16,8 @@ Não, os códigos no github podem ser postados como Privado, disponíveis apenas
 Questao 5: O que é VCS?
 Software de Controle de Versão
 
-
+Questao 6: O que é branch?
+Branch é uma Ramificação do repositório, servindo como uma "linha do tempo alternativa", 
+onde o que é feito em uma não altera a outra 
 
 
