@@ -25,3 +25,6 @@ Questao 7: O que é Pull Request?
 Questao 8: O que é Fork?
 Fork é o ato de copiar um repositório de outro usuário para o seu usuário, podendo alterá-lo sem afetar o 
 repositório original.
+
+Questao 9: O que é Clone?
+Clonar é fazer uma cópia do repositório remoto para trabalhar no repositório local.
